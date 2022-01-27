@@ -1,8 +1,4 @@
-// Описание домашнего задания доступно по ссылке
-// https://github.com/netology-code/sd-homeworks/tree/new-hw/talk
 
-// Задача 1.
-// Отформатируйте код ниже, используя кодстайл: https://github.com/netology-code/codestyle/tree/master/js
 function showingMiddleAge(isFemaleGender) {
 
   let middleAge;

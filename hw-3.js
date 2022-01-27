@@ -1,5 +1,3 @@
-// Описание домашнего задания доступно по ссылке 
-// https://github.com/netology-code/sd-homeworks/tree/new-hw/errors
 
 // Находим все точки-недели на странице:
 let dots = document.getElementsByClassName("app-table__body-dot"); 

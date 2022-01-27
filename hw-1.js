@@ -1,5 +1,3 @@
-// Описание домашнего задания доступно по ссылке
-// https://github.com/netology-code/sd-homeworks/tree/new-hw/meet
 
 function calcWeeks(birthday) {
   let today = new Date(); 
