@@ -1,2 +1,2 @@
 # App-DaysOfLife
-Приложение "Дни жизни"
+App that calculates days of your life
